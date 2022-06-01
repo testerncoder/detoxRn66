@@ -1,6 +1,6 @@
 {
-  "testRunner": "mocha",
-  "runner-config": "e2e/.mocharc.json",
+  "testRunner": "jest",
+  "runner-config": "e2e/config.json",
   "skipLegacyWorkersInjection": true,
   "apps": {
     "ios": {
